@@ -35,35 +35,6 @@
 |`hotfix`    |`버그 수정 ex. User의 login 관련 버그를 수정하는 경우: hotfix-user-login`               |
 |`other`     |`리팩토링, 문서작성, 설정변경 등`  |
 
-### Commit
-
-- 예시
-> 타입(Type): 제목(Title)
-> 
-> 본문
-
-- 타입(Type)
-
-|Type             |설명                          |
-|----------------|-------------------------------|
-|`FEAT`      |`기능개발`           |
-|`FIX`       |`버그수정`             |
-|`DOCS`      |`문서수정`               |
-|`STYLE`     |`스타일수정 (들여쓰기, 세미콜론 등)`  |
-|`REFACTOR`     |`리팩토링`  |
-|`TEST`     |`테스트코드`  |
-|`CHORE`     |`빌드, 패키지매니저 수정 (gitignore 등)`  |
-
-- 제목(Title)
-    - 첫글자는 대문자
-    - 마침표(.) 없이 종결
-
-- 본문 
-    - 간단한 경우 생략 가능
-    - 제목과 본문 사이에는 한 줄 공백
-    - 본문에는 '어떻게'가 아닌 '무엇'을 '왜' 했는지 기입
-- 참고 자료: https://jason-api.tistory.com/89
-
 ## ERD
 https://www.erdcloud.com/d/bf5syqucdbTAtntsq
 ![image](https://user-images.githubusercontent.com/86871368/201333693-322699c7-7bee-4198-a309-fe67af77c207.png)
